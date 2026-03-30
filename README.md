@@ -58,9 +58,9 @@ dim_customer          scd_audit_log
 
 | Object | Type | Purpose |
 |---|---|---|
-| `dim_customer` | Table | SCD2 dimension — stores all historical versions |
-| `stg_customer` | Table | Staging — temporary landing zone per run |
-| `scd_audit_log` | Table | Audit trail — logs every insert/expire/update |
+| `dim_customer` | Table | SCD2 dimension - stores all historical versions |
+| `stg_customer` | Table | Staging - temporary landing zone per run |
+| `scd_audit_log` | Table | Audit trail - logs every insert/expire/update |
 | `ix_dim_customer_id` | Index | Fast lookup by customer_id |
 | `ix_dim_customer_current` | Index | Fast lookup of active records |
 
@@ -68,12 +68,12 @@ dim_customer          scd_audit_log
 
 ## Key Concepts Demonstrated
 
-- **SCD Type 2 dual-operation logic** — expire old row + insert new row
-- **Point-in-time queries** — query customer state on any historical date
-- **Staging layer pattern** — TRUNCATE → LOAD → VALIDATE → PROCESS
-- **Audit logging** — every pipeline operation tracked with old/new values
-- **Change classification** — NEW / SCD2_CHANGE / SOFT_UPDATE / NO_CHANGE
-- **Surrogate key vs natural key** — customer_sk (never changes) vs customer_id
+- **SCD Type 2 dual-operation logic** - expire old row + insert new row
+- **Point-in-time queries** - query customer state on any historical date
+- **Staging layer pattern** - TRUNCATE → LOAD → VALIDATE → PROCESS
+- **Audit logging** - every pipeline operation tracked with old/new values
+- **Change classification** - NEW / SCD2_CHANGE / SOFT_UPDATE / NO_CHANGE
+- **Surrogate key vs natural key** - customer_sk (never changes) vs customer_id
 
 ---
 
