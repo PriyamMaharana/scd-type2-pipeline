@@ -162,8 +162,8 @@ python query_dim.py
 
 ### Pipeline Summary
 *Record counts — active vs historical rows, operations performed*\
-![Summary](screenshots/04_pipeline_summary.png)
 ![Summary](screenshots/04_pipeline_summary2.png)
+![Summary](screenshots/04_pipeline_summary.png)
 
 
 ---
