@@ -1,4 +1,4 @@
-# SCD Type 2 — Customer Dimension Pipeline
+# SCD Type 2 - Customer Dimension Pipeline
 **Tech Stack:** Python 3.11 | SQL Server 2019 | pyodbc | Pandas
 
 ---
