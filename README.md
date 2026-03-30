@@ -96,7 +96,8 @@ scd-type2-pipeline/
 │   ├── 01_customer_history.png
 │   ├── 02_point_in_time_query.png
 │   ├── 03_audit_log.png
-│   └── 04_pipeline_summary.png
+│   ├── 04_pipeline_summary.png
+|   └── 04_pipeline_summary2.png
 │
 ├── logs/
 │   └── scd2_run.log
