@@ -186,7 +186,7 @@ python query_dim.py
 
 ## Challenges & Solutions
 
-See [migration_issues_log.md](migration_issues_log.md) for detailed
+See [migration_issues_log.md](migration_issue_log.md) for detailed
 documentation of all 5 real bugs hit during development, their root
 causes, and fixes applied.
 
