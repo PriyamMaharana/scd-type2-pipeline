@@ -8,11 +8,11 @@
 In data warehousing, a Slowly Changing Dimension Type 2 (SCD2) pipeline
 preserves the full history of changes in a dimension table. Instead of
 overwriting old records when data changes, it expires the old row and
-inserts a new one — so we can always answer "what did this record look
+inserts a new one - so we can always answer "what did this record look
 like at any point in the past?"
 
 **Example:** If customer 5 moved from Delhi to Mumbai in February 2024,
-the dimension table stores BOTH rows — Delhi (expired) and Mumbai (active).
+the dimension table stores BOTH rows - Delhi (expired) and Mumbai (active).
 This lets us answer: *"Where did customer 5 live when they placed their January order?"*
 
 ---
