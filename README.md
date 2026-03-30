@@ -146,22 +146,22 @@ python query_dim.py
 ## Screenshots
 
 ### Customer Version History (SCD2 proof)
-*One customer with multiple rows — each version has effective/expiry dates*
+*One customer with multiple rows — each version has effective/expiry dates*\
 ![Customer History](screenshots/01_customer_history.png)
 
 
 ### Point-in-Time Query
-*Query showing customer state on a specific historical date*
+*Query showing customer state on a specific historical date*\
 ![Point in Time](screenshots/02_point_in_time_query.png)
 
 
 ### Audit Log
-*Every pipeline operation logged with old and new values*
+*Every pipeline operation logged with old and new values*\
 ![Audit Log](screenshots/03_audit_log.png)
 
 
 ### Pipeline Summary
-*Record counts — active vs historical rows, operations performed*
+*Record counts — active vs historical rows, operations performed*\
 ![Summary](screenshots/04_pipeline_summary.png)
 ![Summary](screenshots/04_pipeline_summary2.png)
 
