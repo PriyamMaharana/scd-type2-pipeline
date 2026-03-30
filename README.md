@@ -72,7 +72,7 @@ dim_customer          scd_audit_log
 - **Point-in-time queries** - query customer state on any historical date
 - **Staging layer pattern** - TRUNCATE → LOAD → VALIDATE → PROCESS
 - **Audit logging** - every pipeline operation tracked with old/new values
-- **Change classification** - NEW / SCD2_CHANGE / SOFT_UPDATE / NO_CHANGE
+- **Change classification** - NEW_INSERT / SCD2_CHANGE / SOFT_UPDATE / NO_CHANGE
 - **Surrogate key vs natural key** - customer_sk (never changes) vs customer_id
 
 ---
