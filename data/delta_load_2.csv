@@ -1,0 +1,52 @@
+customer_id,first_name,last_name,email,city,state,customer_segment,source_date
+27,Ladli,Chaudhry,customer27@gmail.com,Jamshedpur,Jharkhand,VIP,2024-03-01
+1001,Thomas,Prashad,customer1001@example.com,Jamshedpur,Jharkhand,Regular,2024-03-01
+1002,Amaira,Radhakrishnan,customer1002@example.com,Mumbai,Maharashtra,Regular,2024-03-01
+1003,Christopher,Basak,customer1003@example.com,Jamshedpur,Jharkhand,Premium,2024-03-01
+1004,Eiravati,Bala,customer1004@example.com,Jamshedpur,Jharkhand,Premium,2024-03-01
+1005,Theodore,Venkatesh,customer1005@example.com,Chennai,Tamil Nadu,Premium,2024-03-01
+1006,Kashvi,Sane,customer1006@example.com,Ahmedabad,Gujarat,Regular,2024-03-01
+1007,Chakradev,Sangha,customer1007@example.com,Hyderabad,Telangana,VIP,2024-03-01
+1008,Keya,Natt,customer1008@example.com,Hyderabad,Telangana,VIP,2024-03-01
+1009,Christopher,Kunda,customer1009@example.com,Hyderabad,Telangana,Premium,2024-03-01
+1010,Gayathri,Saran,customer1010@example.com,Bengaluru,Karnataka,Premium,2024-03-01
+1011,Lila,Sanghvi,customer1011@example.com,Bhubaneswar,Odisha,VIP,2024-03-01
+1012,Madhavi,Gopal,customer1012@example.com,Delhi,Delhi,Premium,2024-03-01
+1013,Faras,Dugal,customer1013@example.com,Chennai,Tamil Nadu,Premium,2024-03-01
+1014,Baghyawati,Nazareth,customer1014@example.com,Delhi,Delhi,Premium,2024-03-01
+1015,Nathaniel,Sharaf,customer1015@example.com,Jamshedpur,Jharkhand,Regular,2024-03-01
+1016,Benjamin,Sandal,customer1016@example.com,Bengaluru,Karnataka,Regular,2024-03-01
+1017,Ekavir,Doctor,customer1017@example.com,Mumbai,Maharashtra,Premium,2024-03-01
+1018,Raksha,Contractor,customer1018@example.com,Kolkata,West Bengal,VIP,2024-03-01
+1019,Jyoti,Sunder,customer1019@example.com,Kolkata,West Bengal,Regular,2024-03-01
+1020,Warinder,Gupta,customer1020@example.com,Bengaluru,Karnataka,Premium,2024-03-01
+1021,Jagvi,Pillay,customer1021@example.com,Ahmedabad,Gujarat,VIP,2024-03-01
+1022,Ishaan,Munshi,customer1022@example.com,Hyderabad,Telangana,Regular,2024-03-01
+1023,Leela,Padmanabhan,customer1023@example.com,Bengaluru,Karnataka,Premium,2024-03-01
+1024,Dominic,Bhavsar,customer1024@example.com,Bhubaneswar,Odisha,Premium,2024-03-01
+1025,Pallavi,Deo,customer1025@example.com,Jamshedpur,Jharkhand,Premium,2024-03-01
+1026,Ekansh,Jha,customer1026@example.com,Jamshedpur,Jharkhand,Regular,2024-03-01
+1027,Balhaar,Grover,customer1027@example.com,Delhi,Delhi,Premium,2024-03-01
+1028,Indrajit,Luthra,customer1028@example.com,Bhubaneswar,Odisha,Premium,2024-03-01
+1029,Laban,Ben,customer1029@example.com,Chennai,Tamil Nadu,Regular,2024-03-01
+1030,Zayan,Saran,customer1030@example.com,Ahmedabad,Gujarat,Premium,2024-03-01
+1031,Mahika,Natt,customer1031@example.com,Mumbai,Maharashtra,Regular,2024-03-01
+1032,Abhimanyu,Badami,customer1032@example.com,Pune,Maharashtra,Premium,2024-03-01
+1033,Rajeshri,Bose,customer1033@example.com,Ahmedabad,Gujarat,VIP,2024-03-01
+1034,Alexander,Rao,customer1034@example.com,Mysuru,Karnataka,Premium,2024-03-01
+1035,Veer,Shetty,customer1035@example.com,Pune,Maharashtra,VIP,2024-03-01
+1036,Chasmum,Bhatt,customer1036@example.com,Mumbai,Maharashtra,Regular,2024-03-01
+1037,Gautami,Manne,customer1037@example.com,Kolkata,West Bengal,Regular,2024-03-01
+1038,Vaishnavi,Bhattacharyya,customer1038@example.com,Pune,Maharashtra,VIP,2024-03-01
+1039,Advik,Ranganathan,customer1039@example.com,Hyderabad,Telangana,Premium,2024-03-01
+1040,Pallavi,Sheth,customer1040@example.com,Hyderabad,Telangana,Regular,2024-03-01
+1041,Avni,Sahni,customer1041@example.com,Kolkata,West Bengal,Regular,2024-03-01
+1042,Chavvi,Gole,customer1042@example.com,Ahmedabad,Gujarat,VIP,2024-03-01
+1043,Viraj,Tella,customer1043@example.com,Chennai,Tamil Nadu,Premium,2024-03-01
+1044,Zinal,Mital,customer1044@example.com,Bhubaneswar,Odisha,Premium,2024-03-01
+1045,Vritti,Bajaj,customer1045@example.com,Delhi,Delhi,Premium,2024-03-01
+1046,Vasudha,Baria,customer1046@example.com,Bhubaneswar,Odisha,Premium,2024-03-01
+1047,Faqid,Dugar,customer1047@example.com,Bhubaneswar,Odisha,Premium,2024-03-01
+1048,Diya,Ghose,customer1048@example.com,Ahmedabad,Gujarat,VIP,2024-03-01
+1049,Fiyaz,Kannan,customer1049@example.com,Ahmedabad,Gujarat,Regular,2024-03-01
+1050,Isaiah,Nadig,customer1050@example.com,Bengaluru,Karnataka,Regular,2024-03-01

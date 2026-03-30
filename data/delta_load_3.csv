@@ -1,0 +1,52 @@
+customer_id,first_name,last_name,email,city,state,customer_segment,source_date
+18,Manan,Sunder,customer18@gmail.com,Bhubaneswar,Odisha,Premium,2024-04-01
+1001,Michael,Wadhwa,customer1001@example.com,Hyderabad,Telangana,Premium,2024-04-01
+1002,Dayamai,Chakraborty,customer1002@example.com,Hyderabad,Telangana,VIP,2024-04-01
+1003,Pallavi,Prabhakar,customer1003@example.com,Pune,Maharashtra,Premium,2024-04-01
+1004,Oliver,Barad,customer1004@example.com,Delhi,Delhi,VIP,2024-04-01
+1005,Raagini,Shenoy,customer1005@example.com,Mysuru,Karnataka,VIP,2024-04-01
+1006,Manthan,Vyas,customer1006@example.com,Kolkata,West Bengal,Premium,2024-04-01
+1007,Falguni,Chhabra,customer1007@example.com,Hyderabad,Telangana,Regular,2024-04-01
+1008,Fiyaz,Ganguly,customer1008@example.com,Pune,Maharashtra,Regular,2024-04-01
+1009,Praneel,Saxena,customer1009@example.com,Pune,Maharashtra,VIP,2024-04-01
+1010,Onkar,Garde,customer1010@example.com,Delhi,Delhi,Premium,2024-04-01
+1011,Ikshita,Dar,customer1011@example.com,Jamshedpur,Jharkhand,VIP,2024-04-01
+1012,Abhimanyu,Parmar,customer1012@example.com,Pune,Maharashtra,VIP,2024-04-01
+1013,Vansha,Edwin,customer1013@example.com,Jamshedpur,Jharkhand,Regular,2024-04-01
+1014,Yashica,Sibal,customer1014@example.com,Chennai,Tamil Nadu,VIP,2024-04-01
+1015,Anita,Shetty,customer1015@example.com,Pune,Maharashtra,VIP,2024-04-01
+1016,Naveen,Apte,customer1016@example.com,Pune,Maharashtra,Regular,2024-04-01
+1017,Chakrika,Tailor,customer1017@example.com,Delhi,Delhi,VIP,2024-04-01
+1018,Gabriel,Bhandari,customer1018@example.com,Ahmedabad,Gujarat,Regular,2024-04-01
+1019,Isaac,Banerjee,customer1019@example.com,Chennai,Tamil Nadu,Regular,2024-04-01
+1020,Widisha,Rout,customer1020@example.com,Mysuru,Karnataka,VIP,2024-04-01
+1021,Mekhala,Upadhyay,customer1021@example.com,Chennai,Tamil Nadu,VIP,2024-04-01
+1022,Yoshita,Memon,customer1022@example.com,Chennai,Tamil Nadu,Regular,2024-04-01
+1023,Mohini,Borra,customer1023@example.com,Delhi,Delhi,Premium,2024-04-01
+1024,Hritik,Majumdar,customer1024@example.com,Hyderabad,Telangana,VIP,2024-04-01
+1025,Jalsa,Shetty,customer1025@example.com,Jamshedpur,Jharkhand,Regular,2024-04-01
+1026,Wriddhish,Malhotra,customer1026@example.com,Mysuru,Karnataka,Regular,2024-04-01
+1027,Pavani,Gera,customer1027@example.com,Mumbai,Maharashtra,VIP,2024-04-01
+1028,Manthan,Jhaveri,customer1028@example.com,Bengaluru,Karnataka,Premium,2024-04-01
+1029,Chakradev,Ramanathan,customer1029@example.com,Mysuru,Karnataka,Premium,2024-04-01
+1030,Arjun,Gulati,customer1030@example.com,Jamshedpur,Jharkhand,VIP,2024-04-01
+1031,Brijesh,Bose,customer1031@example.com,Chennai,Tamil Nadu,Premium,2024-04-01
+1032,Pratyush,Atwal,customer1032@example.com,Hyderabad,Telangana,Premium,2024-04-01
+1033,Saksham,Swaminathan,customer1033@example.com,Mysuru,Karnataka,Regular,2024-04-01
+1034,Yamini,Nath,customer1034@example.com,Delhi,Delhi,VIP,2024-04-01
+1035,Vinaya,Bhatia,customer1035@example.com,Ahmedabad,Gujarat,Regular,2024-04-01
+1036,Hitesh,Kamdar,customer1036@example.com,Bhubaneswar,Odisha,VIP,2024-04-01
+1037,Libni,Kannan,customer1037@example.com,Mumbai,Maharashtra,Regular,2024-04-01
+1038,Jagdish,Garg,customer1038@example.com,Kolkata,West Bengal,Regular,2024-04-01
+1039,Omya,Gole,customer1039@example.com,Mumbai,Maharashtra,Premium,2024-04-01
+1040,Lakshmi,Dhawan,customer1040@example.com,Jamshedpur,Jharkhand,Regular,2024-04-01
+1041,Yashoda,Deol,customer1041@example.com,Pune,Maharashtra,Regular,2024-04-01
+1042,Indira,Kadakia,customer1042@example.com,Mumbai,Maharashtra,Premium,2024-04-01
+1043,Liam,Kibe,customer1043@example.com,Ahmedabad,Gujarat,VIP,2024-04-01
+1044,Indira,Madan,customer1044@example.com,Delhi,Delhi,Premium,2024-04-01
+1045,Kai,Dube,customer1045@example.com,Pune,Maharashtra,Premium,2024-04-01
+1046,Nikita,Nadig,customer1046@example.com,Mysuru,Karnataka,VIP,2024-04-01
+1047,Elijah,Cherian,customer1047@example.com,Bhubaneswar,Odisha,Premium,2024-04-01
+1048,Shivani,Sankar,customer1048@example.com,Bengaluru,Karnataka,VIP,2024-04-01
+1049,Pratyush,Gopal,customer1049@example.com,Jamshedpur,Jharkhand,Premium,2024-04-01
+1050,Meera,Oommen,customer1050@example.com,Chennai,Tamil Nadu,Regular,2024-04-01

@@ -1,0 +1,52 @@
+customer_id,first_name,last_name,email,city,state,customer_segment,source_date
+2,Quincy,Divan,customer2@gmail.com,Mumbai,Maharashtra,Premium,2024-02-01
+1001,Saksham,Dayal,customer1001@example.com,Kolkata,West Bengal,Premium,2024-02-01
+1002,Janaki,Ben,customer1002@example.com,Bengaluru,Karnataka,Premium,2024-02-01
+1003,Oliver,Balay,customer1003@example.com,Jamshedpur,Jharkhand,Premium,2024-02-01
+1004,Wriddhish,Parekh,customer1004@example.com,Bhubaneswar,Odisha,Premium,2024-02-01
+1005,Jeet,Hayer,customer1005@example.com,Delhi,Delhi,VIP,2024-02-01
+1006,Nimrat,Badal,customer1006@example.com,Kolkata,West Bengal,Regular,2024-02-01
+1007,Yahvi,Padmanabhan,customer1007@example.com,Kolkata,West Bengal,VIP,2024-02-01
+1008,Jonathan,Dixit,customer1008@example.com,Bengaluru,Karnataka,VIP,2024-02-01
+1009,Riya,Parmar,customer1009@example.com,Pune,Maharashtra,Premium,2024-02-01
+1010,Reva,Sachdev,customer1010@example.com,Delhi,Delhi,Regular,2024-02-01
+1011,Kala,Sidhu,customer1011@example.com,Hyderabad,Telangana,VIP,2024-02-01
+1012,Rushil,Dhawan,customer1012@example.com,Pune,Maharashtra,Premium,2024-02-01
+1013,William,Modi,customer1013@example.com,Jamshedpur,Jharkhand,VIP,2024-02-01
+1014,Karan,Singhal,customer1014@example.com,Kolkata,West Bengal,Regular,2024-02-01
+1015,Falguni,Bhatt,customer1015@example.com,Jamshedpur,Jharkhand,Premium,2024-02-01
+1016,Sathvik,Patil,customer1016@example.com,Jamshedpur,Jharkhand,Regular,2024-02-01
+1017,Vyanjana,Maharaj,customer1017@example.com,Hyderabad,Telangana,VIP,2024-02-01
+1018,Jonathan,Dhingra,customer1018@example.com,Kolkata,West Bengal,Premium,2024-02-01
+1019,Udarsh,Dhawan,customer1019@example.com,Mysuru,Karnataka,Regular,2024-02-01
+1020,Thomas,Badal,customer1020@example.com,Delhi,Delhi,VIP,2024-02-01
+1021,Lohit,Reddy,customer1021@example.com,Mysuru,Karnataka,Premium,2024-02-01
+1022,Onkar,Sura,customer1022@example.com,Hyderabad,Telangana,VIP,2024-02-01
+1023,Bhanumati,Maharaj,customer1023@example.com,Mysuru,Karnataka,Regular,2024-02-01
+1024,Ayush,Chokshi,customer1024@example.com,Mumbai,Maharashtra,Regular,2024-02-01
+1025,Jhalak,Goda,customer1025@example.com,Ahmedabad,Gujarat,VIP,2024-02-01
+1026,William,Thaker,customer1026@example.com,Jamshedpur,Jharkhand,Regular,2024-02-01
+1027,Riya,Swaminathan,customer1027@example.com,Bengaluru,Karnataka,Regular,2024-02-01
+1028,Liam,Wable,customer1028@example.com,Chennai,Tamil Nadu,VIP,2024-02-01
+1029,Vamakshi,Bhagat,customer1029@example.com,Hyderabad,Telangana,Premium,2024-02-01
+1030,Manya,Gera,customer1030@example.com,Kolkata,West Bengal,VIP,2024-02-01
+1031,Warinder,Dar,customer1031@example.com,Mumbai,Maharashtra,VIP,2024-02-01
+1032,Mekhala,Jain,customer1032@example.com,Bengaluru,Karnataka,VIP,2024-02-01
+1033,Vedant,Edwin,customer1033@example.com,Jamshedpur,Jharkhand,Premium,2024-02-01
+1034,Gaurav,Issac,customer1034@example.com,Hyderabad,Telangana,Premium,2024-02-01
+1035,Daksha,Mahal,customer1035@example.com,Delhi,Delhi,VIP,2024-02-01
+1036,Parth,Karnik,customer1036@example.com,Bengaluru,Karnataka,VIP,2024-02-01
+1037,Anika,Majumdar,customer1037@example.com,Hyderabad,Telangana,Premium,2024-02-01
+1038,Wyatt,Devi,customer1038@example.com,Hyderabad,Telangana,VIP,2024-02-01
+1039,Yatan,Bir,customer1039@example.com,Pune,Maharashtra,Regular,2024-02-01
+1040,Charan,Seshadri,customer1040@example.com,Delhi,Delhi,Regular,2024-02-01
+1041,Yug,Chaudry,customer1041@example.com,Bengaluru,Karnataka,Premium,2024-02-01
+1042,Caleb,Chadha,customer1042@example.com,Bhubaneswar,Odisha,Premium,2024-02-01
+1043,Robert,Venkataraman,customer1043@example.com,Bhubaneswar,Odisha,Regular,2024-02-01
+1044,Janaki,Chand,customer1044@example.com,Pune,Maharashtra,Premium,2024-02-01
+1045,Aachal,Varma,customer1045@example.com,Jamshedpur,Jharkhand,Regular,2024-02-01
+1046,Aadhya,Goyal,customer1046@example.com,Ahmedabad,Gujarat,Premium,2024-02-01
+1047,Mohini,Bala,customer1047@example.com,Jamshedpur,Jharkhand,Regular,2024-02-01
+1048,Krishna,Chawla,customer1048@example.com,Delhi,Delhi,Regular,2024-02-01
+1049,Krish,Bose,customer1049@example.com,Delhi,Delhi,Premium,2024-02-01
+1050,Banjeet,Mohanty,customer1050@example.com,Bengaluru,Karnataka,VIP,2024-02-01

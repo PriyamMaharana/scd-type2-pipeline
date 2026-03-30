@@ -1,0 +1,64 @@
+2026-03-27 20:11:08,052 | INFO | ==================================================
+2026-03-27 20:11:08,053 | INFO | SCD2 Pipeline Started — 2026-03-27 20:11:08.053137
+2026-03-27 20:11:08,053 | INFO | Source file: data/initial_load.csv
+2026-03-27 20:11:08,149 | INFO | Loading staging data from: data/initial_load.csv
+2026-03-27 20:11:10,579 | INFO | Loaded 1000 records into staging
+2026-03-27 20:11:11,037 | INFO | Current dimension: 0 active records
+2026-03-27 20:11:11,039 | INFO | Staging records:   1000
+2026-03-27 20:11:15,335 | INFO | ==================================================
+2026-03-27 20:11:15,337 | INFO | ==================================================
+2026-03-27 20:11:15,337 | INFO | SCD2 Pipeline Started — 2026-03-27 20:11:15.337648
+2026-03-27 20:11:15,338 | INFO | Source file: data/delta_load_1.csv
+2026-03-27 20:11:15,338 | INFO | Loading staging data from: data/delta_load_1.csv
+2026-03-27 20:11:15,513 | INFO | Loaded 51 records into staging
+2026-03-27 20:11:15,533 | INFO | Current dimension: 1000 active records
+2026-03-27 20:11:15,535 | INFO | Staging records:   51
+2026-03-27 20:11:15,850 | INFO | ==================================================
+2026-03-27 20:11:15,852 | INFO | ==================================================
+2026-03-27 20:11:15,852 | INFO | SCD2 Pipeline Started — 2026-03-27 20:11:15.852352
+2026-03-27 20:11:15,852 | INFO | Source file: data/delta_load_2.csv
+2026-03-27 20:11:15,852 | INFO | Loading staging data from: data/delta_load_2.csv
+2026-03-27 20:11:16,020 | INFO | Loaded 51 records into staging
+2026-03-27 20:11:16,037 | INFO | Current dimension: 1050 active records
+2026-03-27 20:11:16,037 | INFO | Staging records:   51
+2026-03-27 20:11:16,416 | INFO | ==================================================
+2026-03-27 20:11:16,418 | INFO | ==================================================
+2026-03-27 20:11:16,418 | INFO | SCD2 Pipeline Started — 2026-03-27 20:11:16.418675
+2026-03-27 20:11:16,419 | INFO | Source file: data/delta_load_3.csv
+2026-03-27 20:11:16,419 | INFO | Loading staging data from: data/delta_load_3.csv
+2026-03-27 20:11:16,574 | INFO | Loaded 51 records into staging
+2026-03-27 20:11:16,589 | INFO | Current dimension: 1050 active records
+2026-03-27 20:11:16,590 | INFO | Staging records:   51
+2026-03-27 20:11:16,930 | INFO | ==================================================
+2026-03-28 08:45:03,898 | INFO | ==================================================
+2026-03-28 08:45:03,899 | INFO | SCD2 Pipeline Started — 2026-03-28 08:45:03.899105
+2026-03-28 08:45:03,899 | INFO | Source file: data/initial_load.csv
+2026-03-28 08:45:04,108 | INFO | Loading staging data from: data/initial_load.csv
+2026-03-28 08:45:05,887 | INFO | Loaded 1000 records into staging
+2026-03-28 08:45:07,215 | INFO | Current dimension: 1050 active records
+2026-03-28 08:45:07,216 | INFO | Staging records:   1000
+2026-03-28 08:45:07,525 | INFO | ==================================================
+2026-03-28 08:45:07,526 | INFO | ==================================================
+2026-03-28 08:45:07,527 | INFO | SCD2 Pipeline Started — 2026-03-28 08:45:07.527253
+2026-03-28 08:45:07,527 | INFO | Source file: data/delta_load_1.csv
+2026-03-28 08:45:07,528 | INFO | Loading staging data from: data/delta_load_1.csv
+2026-03-28 08:45:07,727 | INFO | Loaded 51 records into staging
+2026-03-28 08:45:07,744 | INFO | Current dimension: 1050 active records
+2026-03-28 08:45:07,745 | INFO | Staging records:   51
+2026-03-28 08:45:08,106 | INFO | ==================================================
+2026-03-28 08:45:08,108 | INFO | ==================================================
+2026-03-28 08:45:08,110 | INFO | SCD2 Pipeline Started — 2026-03-28 08:45:08.110356
+2026-03-28 08:45:08,117 | INFO | Source file: data/delta_load_2.csv
+2026-03-28 08:45:08,118 | INFO | Loading staging data from: data/delta_load_2.csv
+2026-03-28 08:45:08,283 | INFO | Loaded 51 records into staging
+2026-03-28 08:45:08,297 | INFO | Current dimension: 1050 active records
+2026-03-28 08:45:08,298 | INFO | Staging records:   51
+2026-03-28 08:45:08,640 | INFO | ==================================================
+2026-03-28 08:45:08,641 | INFO | ==================================================
+2026-03-28 08:45:08,647 | INFO | SCD2 Pipeline Started — 2026-03-28 08:45:08.647204
+2026-03-28 08:45:08,648 | INFO | Source file: data/delta_load_3.csv
+2026-03-28 08:45:08,648 | INFO | Loading staging data from: data/delta_load_3.csv
+2026-03-28 08:45:08,804 | INFO | Loaded 51 records into staging
+2026-03-28 08:45:08,821 | INFO | Current dimension: 1050 active records
+2026-03-28 08:45:08,822 | INFO | Staging records:   51
+2026-03-28 08:45:09,119 | INFO | ==================================================
